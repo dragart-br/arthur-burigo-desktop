@@ -1,5 +1,8 @@
-_site/
 .DS_Store
 Thumbs.db
-desktop.ini
-*.log
+Desktop.ini
+node_modules/
+npm-debug.log*
+.env
+.env.*
+!.env.example

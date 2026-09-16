@@ -1,15 +1,6 @@
-* text=auto
-*.html text eol=lf
-*.css text eol=lf
-*.js text eol=lf
-*.cjs text eol=lf
-*.json text eol=lf
-*.yml text eol=lf
-*.md text eol=lf
-*.txt text eol=lf
-*.m3u8 text eol=lf
-*.svg text eol=lf
-*.ttf binary
-*.webp binary
+* text=auto eol=lf
+*.bat text eol=crlf
 *.mp4 binary
 *.ts binary
+*.webp binary
+*.ttf binary

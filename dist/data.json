@@ -1,0 +1,971 @@
+{
+  "tabs": [
+    {
+      "name": "Sobre mim",
+      "slug": "sobre-mim",
+      "path": "1. Sobre mim",
+      "children": [],
+      "media": [
+        {
+          "id": "sobre-mim-arthur-burigo",
+          "name": "Arthur Búrigo",
+          "kind": "image",
+          "src": "media/1-sobre-mim--arthur-burigo.webp",
+          "poster": null,
+          "hls": null,
+          "width": 4000,
+          "height": 6000,
+          "duration": null
+        }
+      ]
+    },
+    {
+      "name": "AAA Jesse Owens",
+      "slug": "aaa-jesse-owens",
+      "path": "2. AAA Jesse Owens",
+      "children": [
+        {
+          "name": "Dezembeer",
+          "slug": "dezembeer",
+          "path": "2. AAA Jesse Owens/Dezembeer",
+          "children": [],
+          "media": [
+            {
+              "id": "aaa-jesse-owens-dezembeer-kv-novembeer",
+              "name": "KV Novembeer",
+              "kind": "image",
+              "src": "media/2-aaa-jesse-owens--dezembeer--kv-novembeer.webp",
+              "poster": null,
+              "hls": null,
+              "width": 1920,
+              "height": 1080,
+              "duration": null
+            },
+            {
+              "id": "aaa-jesse-owens-dezembeer-moodboard-novembeer",
+              "name": "Moodboard Novembeer",
+              "kind": "image",
+              "src": "media/2-aaa-jesse-owens--dezembeer--moodboard-novembeer.webp",
+              "poster": null,
+              "hls": null,
+              "width": 1920,
+              "height": 1080,
+              "duration": null
+            },
+            {
+              "id": "aaa-jesse-owens-dezembeer-dezembeer-flyer-geral",
+              "name": "Dezembeer - Flyer geral",
+              "kind": "image",
+              "src": "media/2-aaa-jesse-owens--dezembeer--dezembeer-flyer-geral.webp",
+              "poster": null,
+              "hls": null,
+              "width": 1080,
+              "height": 1350,
+              "duration": null
+            },
+            {
+              "id": "aaa-jesse-owens-dezembeer-dezembeer-fireball",
+              "name": "Dezembeer fireball",
+              "kind": "image",
+              "src": "media/2-aaa-jesse-owens--dezembeer--dezembeer-fireball.webp",
+              "poster": null,
+              "hls": null,
+              "width": 1080,
+              "height": 1350,
+              "duration": null
+            },
+            {
+              "id": "aaa-jesse-owens-dezembeer-flying-horse-copia",
+              "name": "Flying horse - Copia",
+              "kind": "image",
+              "src": "media/2-aaa-jesse-owens--dezembeer--flying-horse-copia.webp",
+              "poster": null,
+              "hls": null,
+              "width": 1080,
+              "height": 1350,
+              "duration": null
+            }
+          ]
+        },
+        {
+          "name": "DIA C",
+          "slug": "dia-c",
+          "path": "2. AAA Jesse Owens/DIA C",
+          "children": [],
+          "media": [
+            {
+              "id": "aaa-jesse-owens-dia-c-after-movie-v1-2",
+              "name": "After Movie V1.2",
+              "kind": "video",
+              "src": null,
+              "poster": "media/2-aaa-jesse-owens--dia-c--after-movie-v1-2--poster.webp",
+              "hls": "media/2-aaa-jesse-owens--dia-c--after-movie-v1-2--hls/index.m3u8",
+              "width": 1920,
+              "height": 1080,
+              "duration": 352.2133333333333
+            },
+            {
+              "id": "aaa-jesse-owens-dia-c-manifesto-social-v1-3",
+              "name": "Manifesto social V1.3",
+              "kind": "video",
+              "src": null,
+              "poster": "media/2-aaa-jesse-owens--dia-c--manifesto-social-v1-3--poster.webp",
+              "hls": "media/2-aaa-jesse-owens--dia-c--manifesto-social-v1-3--hls/index.m3u8",
+              "width": 1920,
+              "height": 1080,
+              "duration": 149.41866666666667
+            },
+            {
+              "id": "aaa-jesse-owens-dia-c-mote-v1-3",
+              "name": "MOTE V1.3",
+              "kind": "video",
+              "src": null,
+              "poster": "media/2-aaa-jesse-owens--dia-c--mote-v1-3--poster.webp",
+              "hls": "media/2-aaa-jesse-owens--dia-c--mote-v1-3--hls/index.m3u8",
+              "width": 1920,
+              "height": 1080,
+              "duration": 228.544
+            },
+            {
+              "id": "aaa-jesse-owens-dia-c-clipe-amo-minha-antena-v1-1",
+              "name": "Clipe Amo minha antena V1.1",
+              "kind": "video",
+              "src": null,
+              "poster": "media/2-aaa-jesse-owens--dia-c--clipe-amo-minha-antena-v1-1--poster.webp",
+              "hls": "media/2-aaa-jesse-owens--dia-c--clipe-amo-minha-antena-v1-1--hls/index.m3u8",
+              "width": 2048,
+              "height": 1536,
+              "duration": 131.392
+            }
+          ]
+        },
+        {
+          "name": "HP de ouro",
+          "slug": "hp-de-ouro",
+          "path": "2. AAA Jesse Owens/HP de ouro",
+          "children": [
+            {
+              "name": "Abertura",
+              "slug": "abertura",
+              "path": "2. AAA Jesse Owens/HP de ouro/Abertura",
+              "children": [],
+              "media": [
+                {
+                  "id": "aaa-jesse-owens-hp-de-ouro-abertura-magnific-sequencetype-texttovideo-b1cb9vl5y2",
+                  "name": "Abertura — HP de ouro",
+                  "kind": "video",
+                  "src": "media/2-aaa-jesse-owens--hp-de-ouro--abertura--magnific-sequencetype-texttovideo-b1cb9vl5y2.mp4",
+                  "poster": "media/2-aaa-jesse-owens--hp-de-ouro--abertura--magnific-sequencetype-texttovideo-b1cb9vl5y2--poster.webp",
+                  "hls": null,
+                  "width": 1920,
+                  "height": 1080,
+                  "duration": 6
+                }
+              ]
+            }
+          ],
+          "media": [
+            {
+              "id": "aaa-jesse-owens-hp-de-ouro-abertura-hp-de-ouro-final-1",
+              "name": "Abertura hp de ouro final-1",
+              "kind": "video",
+              "src": null,
+              "poster": "media/2-aaa-jesse-owens--hp-de-ouro--abertura-hp-de-ouro-final-1--poster.webp",
+              "hls": "media/2-aaa-jesse-owens--hp-de-ouro--abertura-hp-de-ouro-final-1--hls/index.m3u8",
+              "width": 1920,
+              "height": 1080,
+              "duration": 107.94666666666667
+            },
+            {
+              "id": "aaa-jesse-owens-hp-de-ouro-hp-de-ouro",
+              "name": "HP DE OURO",
+              "kind": "image",
+              "src": "media/2-aaa-jesse-owens--hp-de-ouro--hp-de-ouro.webp",
+              "poster": null,
+              "hls": null,
+              "width": 1080,
+              "height": 1350,
+              "duration": null
+            }
+          ]
+        },
+        {
+          "name": "Mansão maromba",
+          "slug": "mansao-maromba",
+          "path": "2. AAA Jesse Owens/Mansão maromba",
+          "children": [],
+          "media": [
+            {
+              "id": "aaa-jesse-owens-mansao-maromba-feed",
+              "name": "Feed",
+              "kind": "image",
+              "src": "media/2-aaa-jesse-owens--mansao-maromba--feed.webp",
+              "poster": null,
+              "hls": null,
+              "width": 1080,
+              "height": 1350,
+              "duration": null
+            },
+            {
+              "id": "aaa-jesse-owens-mansao-maromba-story",
+              "name": "Story",
+              "kind": "image",
+              "src": "media/2-aaa-jesse-owens--mansao-maromba--story.webp",
+              "poster": null,
+              "hls": null,
+              "width": 900,
+              "height": 1600,
+              "duration": null
+            },
+            {
+              "id": "aaa-jesse-owens-mansao-maromba-anuncio",
+              "name": "Anúncio",
+              "kind": "video",
+              "src": "media/2-aaa-jesse-owens--mansao-maromba--anuncio.mp4",
+              "poster": "media/2-aaa-jesse-owens--mansao-maromba--anuncio--poster.webp",
+              "hls": null,
+              "width": 1080,
+              "height": 1920,
+              "duration": 17.941333333333333
+            }
+          ]
+        },
+        {
+          "name": "Pós JUCA",
+          "slug": "pos-juca",
+          "path": "2. AAA Jesse Owens/Pós JUCA",
+          "children": [],
+          "media": [
+            {
+              "id": "aaa-jesse-owens-pos-juca-poster-1",
+              "name": "Poster 1",
+              "kind": "image",
+              "src": "media/2-aaa-jesse-owens--pos-juca--poster-1.webp",
+              "poster": null,
+              "hls": null,
+              "width": 1080,
+              "height": 1350,
+              "duration": null
+            },
+            {
+              "id": "aaa-jesse-owens-pos-juca-poster-2",
+              "name": "Poster 2",
+              "kind": "image",
+              "src": "media/2-aaa-jesse-owens--pos-juca--poster-2.webp",
+              "poster": null,
+              "hls": null,
+              "width": 1122,
+              "height": 1402,
+              "duration": null
+            },
+            {
+              "id": "aaa-jesse-owens-pos-juca-primeiro-lote",
+              "name": "Primeiro Lote",
+              "kind": "image",
+              "src": "media/2-aaa-jesse-owens--pos-juca--primeiro-lote.webp",
+              "poster": null,
+              "hls": null,
+              "width": 1080,
+              "height": 1350,
+              "duration": null
+            },
+            {
+              "id": "aaa-jesse-owens-pos-juca-save-the-date",
+              "name": "Save the date",
+              "kind": "image",
+              "src": "media/2-aaa-jesse-owens--pos-juca--save-the-date.webp",
+              "poster": null,
+              "hls": null,
+              "width": 1080,
+              "height": 1350,
+              "duration": null
+            },
+            {
+              "id": "aaa-jesse-owens-pos-juca-segundo-lote",
+              "name": "Segundo lote",
+              "kind": "image",
+              "src": "media/2-aaa-jesse-owens--pos-juca--segundo-lote.webp",
+              "poster": null,
+              "hls": null,
+              "width": 1080,
+              "height": 1350,
+              "duration": null
+            },
+            {
+              "id": "aaa-jesse-owens-pos-juca-open-fixo",
+              "name": "Open fixo",
+              "kind": "video",
+              "src": "media/2-aaa-jesse-owens--pos-juca--open-fixo.mp4",
+              "poster": "media/2-aaa-jesse-owens--pos-juca--open-fixo--poster.webp",
+              "hls": null,
+              "width": 1080,
+              "height": 1440,
+              "duration": 8.448
+            }
+          ]
+        }
+      ],
+      "media": []
+    },
+    {
+      "name": "VibeCode",
+      "slug": "vibecode",
+      "path": "3. VibeCode",
+      "projects": [
+        {
+          "name": "DMC: Delorean",
+          "description": "Uma interação virtual com o icônico carro de ‘De volta para o futuro’ onde é possível explorar todas as regiões da máquina e ir muito além do que se imagina…",
+          "url": "https://dmc-delorean-1985.melanciaraivosa.chatgpt.site/",
+          "tags": [
+            "EXPERIÊNCIA 3D",
+            "INTERATIVO"
+          ]
+        },
+        {
+          "name": "OMO-DOZI: astra la vista",
+          "description": "Página virtual focada na interação de um carro esportivo fictício utilizado para testar os níveis de renderização 3D e exploração de WebGL do GPT-6 Astra.",
+          "url": "https://omo-dozi-astra-la-vista.arthurburigo120.chatgpt.site/",
+          "tags": [
+            "WEBGL",
+            "RENDERIZAÇÃO 3D"
+          ]
+        }
+      ],
+      "children": [],
+      "media": []
+    },
+    {
+      "name": "NAAPI",
+      "slug": "naapi",
+      "path": "4. NAAPI",
+      "children": [],
+      "media": [
+        {
+          "id": "naapi-ativacao",
+          "name": "Ativação",
+          "kind": "image",
+          "src": "media/4-naapi--ativacao.webp",
+          "poster": null,
+          "hls": null,
+          "width": 1920,
+          "height": 1080,
+          "duration": null
+        },
+        {
+          "id": "naapi-bancada",
+          "name": "Bancada",
+          "kind": "image",
+          "src": "media/4-naapi--bancada.webp",
+          "poster": null,
+          "hls": null,
+          "width": 1920,
+          "height": 1080,
+          "duration": null
+        },
+        {
+          "id": "naapi-brindes",
+          "name": "Brindes",
+          "kind": "image",
+          "src": "media/4-naapi--brindes.webp",
+          "poster": null,
+          "hls": null,
+          "width": 1920,
+          "height": 1080,
+          "duration": null
+        },
+        {
+          "id": "naapi-cabine",
+          "name": "Cabine",
+          "kind": "image",
+          "src": "media/4-naapi--cabine.webp",
+          "poster": null,
+          "hls": null,
+          "width": 1920,
+          "height": 1080,
+          "duration": null
+        },
+        {
+          "id": "naapi-kv",
+          "name": "KV",
+          "kind": "image",
+          "src": "media/4-naapi--kv.webp",
+          "poster": null,
+          "hls": null,
+          "width": 1920,
+          "height": 1080,
+          "duration": null
+        },
+        {
+          "id": "naapi-1",
+          "name": "Prancha 01",
+          "kind": "image",
+          "src": "media/4-naapi--1.webp",
+          "poster": null,
+          "hls": null,
+          "width": 1594,
+          "height": 1993,
+          "duration": null
+        },
+        {
+          "id": "naapi-2",
+          "name": "Prancha 02",
+          "kind": "image",
+          "src": "media/4-naapi--2.webp",
+          "poster": null,
+          "hls": null,
+          "width": 1595,
+          "height": 1993,
+          "duration": null
+        },
+        {
+          "id": "naapi-3",
+          "name": "Prancha 03",
+          "kind": "image",
+          "src": "media/4-naapi--3.webp",
+          "poster": null,
+          "hls": null,
+          "width": 1594,
+          "height": 1993,
+          "duration": null
+        }
+      ]
+    },
+    {
+      "name": "Dolly Rebranding",
+      "slug": "dolly-rebranding",
+      "path": "5. Dolly Rebranding",
+      "children": [],
+      "media": [
+        {
+          "id": "dolly-rebranding-1",
+          "name": "Prancha 01",
+          "kind": "image",
+          "src": "media/5-dolly-rebranding--1.webp",
+          "poster": null,
+          "hls": null,
+          "width": 1920,
+          "height": 1080,
+          "duration": null
+        },
+        {
+          "id": "dolly-rebranding-2",
+          "name": "Prancha 02",
+          "kind": "image",
+          "src": "media/5-dolly-rebranding--2.webp",
+          "poster": null,
+          "hls": null,
+          "width": 1920,
+          "height": 1080,
+          "duration": null
+        },
+        {
+          "id": "dolly-rebranding-3",
+          "name": "Prancha 03",
+          "kind": "image",
+          "src": "media/5-dolly-rebranding--3.webp",
+          "poster": null,
+          "hls": null,
+          "width": 1920,
+          "height": 1080,
+          "duration": null
+        },
+        {
+          "id": "dolly-rebranding-4",
+          "name": "Prancha 04",
+          "kind": "image",
+          "src": "media/5-dolly-rebranding--4.webp",
+          "poster": null,
+          "hls": null,
+          "width": 1920,
+          "height": 1080,
+          "duration": null
+        },
+        {
+          "id": "dolly-rebranding-5",
+          "name": "Prancha 05",
+          "kind": "image",
+          "src": "media/5-dolly-rebranding--5.webp",
+          "poster": null,
+          "hls": null,
+          "width": 1920,
+          "height": 1080,
+          "duration": null
+        },
+        {
+          "id": "dolly-rebranding-6",
+          "name": "Prancha 06",
+          "kind": "image",
+          "src": "media/5-dolly-rebranding--6.webp",
+          "poster": null,
+          "hls": null,
+          "width": 1920,
+          "height": 1080,
+          "duration": null
+        },
+        {
+          "id": "dolly-rebranding-7",
+          "name": "Prancha 07",
+          "kind": "image",
+          "src": "media/5-dolly-rebranding--7.webp",
+          "poster": null,
+          "hls": null,
+          "width": 1920,
+          "height": 1080,
+          "duration": null
+        },
+        {
+          "id": "dolly-rebranding-8",
+          "name": "Prancha 08",
+          "kind": "image",
+          "src": "media/5-dolly-rebranding--8.webp",
+          "poster": null,
+          "hls": null,
+          "width": 1920,
+          "height": 1080,
+          "duration": null
+        },
+        {
+          "id": "dolly-rebranding-10",
+          "name": "Prancha 10",
+          "kind": "image",
+          "src": "media/5-dolly-rebranding--10.webp",
+          "poster": null,
+          "hls": null,
+          "width": 1920,
+          "height": 1080,
+          "duration": null
+        },
+        {
+          "id": "dolly-rebranding-13",
+          "name": "Prancha 13",
+          "kind": "image",
+          "src": "media/5-dolly-rebranding--13.webp",
+          "poster": null,
+          "hls": null,
+          "width": 1920,
+          "height": 1080,
+          "duration": null
+        },
+        {
+          "id": "dolly-rebranding-14",
+          "name": "Prancha 14",
+          "kind": "image",
+          "src": "media/5-dolly-rebranding--14.webp",
+          "poster": null,
+          "hls": null,
+          "width": 1920,
+          "height": 1080,
+          "duration": null
+        },
+        {
+          "id": "dolly-rebranding-15",
+          "name": "Prancha 15",
+          "kind": "image",
+          "src": "media/5-dolly-rebranding--15.webp",
+          "poster": null,
+          "hls": null,
+          "width": 1920,
+          "height": 1080,
+          "duration": null
+        },
+        {
+          "id": "dolly-rebranding-16",
+          "name": "Prancha 16",
+          "kind": "image",
+          "src": "media/5-dolly-rebranding--16.webp",
+          "poster": null,
+          "hls": null,
+          "width": 1920,
+          "height": 1080,
+          "duration": null
+        },
+        {
+          "id": "dolly-rebranding-9",
+          "name": "Prancha 09",
+          "kind": "image",
+          "src": "media/5-dolly-rebranding--9.webp",
+          "poster": null,
+          "hls": null,
+          "width": 1928,
+          "height": 1088,
+          "duration": null
+        },
+        {
+          "id": "dolly-rebranding-11",
+          "name": "Prancha 11",
+          "kind": "image",
+          "src": "media/5-dolly-rebranding--11.webp",
+          "poster": null,
+          "hls": null,
+          "width": 1920,
+          "height": 1079,
+          "duration": null
+        },
+        {
+          "id": "dolly-rebranding-12",
+          "name": "Prancha 12",
+          "kind": "image",
+          "src": "media/5-dolly-rebranding--12.webp",
+          "poster": null,
+          "hls": null,
+          "width": 1920,
+          "height": 1079,
+          "duration": null
+        }
+      ]
+    },
+    {
+      "name": "AI Creative",
+      "slug": "ai-creative",
+      "path": "6. AI Creative",
+      "children": [],
+      "media": [
+        {
+          "id": "ai-creative-sebastian-1",
+          "name": "Sebastian (1)",
+          "kind": "image",
+          "src": "media/6-ai-creative--sebastian-1.webp",
+          "poster": null,
+          "hls": null,
+          "width": 1080,
+          "height": 1920,
+          "duration": null
+        }
+      ]
+    },
+    {
+      "name": "Europe",
+      "slug": "europe",
+      "path": "7. Europe",
+      "children": [
+        {
+          "name": "FORCEUSA",
+          "slug": "forceusa",
+          "path": "7. Europe/FORCEUSA",
+          "children": [
+            {
+              "name": "França",
+              "slug": "franca",
+              "path": "7. Europe/FORCEUSA/França",
+              "children": [],
+              "media": [
+                {
+                  "id": "europe-forceusa-franca-1",
+                  "name": "Prancha 01",
+                  "kind": "image",
+                  "src": "media/7-europe--forceusa--franca--1.webp",
+                  "poster": null,
+                  "hls": null,
+                  "width": 1080,
+                  "height": 1440,
+                  "duration": null
+                },
+                {
+                  "id": "europe-forceusa-franca-2",
+                  "name": "Prancha 02",
+                  "kind": "image",
+                  "src": "media/7-europe--forceusa--franca--2.webp",
+                  "poster": null,
+                  "hls": null,
+                  "width": 1080,
+                  "height": 1440,
+                  "duration": null
+                },
+                {
+                  "id": "europe-forceusa-franca-3",
+                  "name": "Prancha 03",
+                  "kind": "image",
+                  "src": "media/7-europe--forceusa--franca--3.webp",
+                  "poster": null,
+                  "hls": null,
+                  "width": 1080,
+                  "height": 1440,
+                  "duration": null
+                },
+                {
+                  "id": "europe-forceusa-franca-4",
+                  "name": "Prancha 04",
+                  "kind": "image",
+                  "src": "media/7-europe--forceusa--franca--4.webp",
+                  "poster": null,
+                  "hls": null,
+                  "width": 1080,
+                  "height": 1440,
+                  "duration": null
+                },
+                {
+                  "id": "europe-forceusa-franca-5",
+                  "name": "Prancha 05",
+                  "kind": "image",
+                  "src": "media/7-europe--forceusa--franca--5.webp",
+                  "poster": null,
+                  "hls": null,
+                  "width": 1080,
+                  "height": 1440,
+                  "duration": null
+                },
+                {
+                  "id": "europe-forceusa-franca-6",
+                  "name": "Prancha 06",
+                  "kind": "image",
+                  "src": "media/7-europe--forceusa--franca--6.webp",
+                  "poster": null,
+                  "hls": null,
+                  "width": 1080,
+                  "height": 1440,
+                  "duration": null
+                }
+              ]
+            },
+            {
+              "name": "Italia",
+              "slug": "italia",
+              "path": "7. Europe/FORCEUSA/Italia",
+              "children": [],
+              "media": [
+                {
+                  "id": "europe-forceusa-italia-one-plate-at-a-time",
+                  "name": "ONE PLATE AT A TIME",
+                  "kind": "image",
+                  "src": "media/7-europe--forceusa--italia--one-plate-at-a-time.webp",
+                  "poster": null,
+                  "hls": null,
+                  "width": 1080,
+                  "height": 1440,
+                  "duration": null
+                }
+              ]
+            }
+          ],
+          "media": [
+            {
+              "id": "europe-forceusa-better-than-yesterday",
+              "name": "BETTER THAN YESTERDAY.",
+              "kind": "image",
+              "src": "media/7-europe--forceusa--better-than-yesterday.webp",
+              "poster": null,
+              "hls": null,
+              "width": 1080,
+              "height": 1440,
+              "duration": null
+            },
+            {
+              "id": "europe-forceusa-4",
+              "name": "FORCEUSA — Filme",
+              "kind": "video",
+              "src": "media/7-europe--forceusa--4.mp4",
+              "poster": "media/7-europe--forceusa--4--poster.webp",
+              "hls": null,
+              "width": 1080,
+              "height": 1920,
+              "duration": 10.517333333333333
+            }
+          ]
+        },
+        {
+          "name": "Titanium Strength",
+          "slug": "titanium-strength",
+          "path": "7. Europe/Titanium Strength",
+          "children": [
+            {
+              "name": "Alemanha",
+              "slug": "alemanha",
+              "path": "7. Europe/Titanium Strength/Alemanha",
+              "children": [
+                {
+                  "name": "1",
+                  "slug": "1",
+                  "path": "7. Europe/Titanium Strength/Alemanha/1",
+                  "children": [],
+                  "media": [
+                    {
+                      "id": "europe-titanium-strength-alemanha-1-1",
+                      "name": "Prancha 01",
+                      "kind": "image",
+                      "src": "media/7-europe--titanium-strength--alemanha--1--1.webp",
+                      "poster": null,
+                      "hls": null,
+                      "width": 1080,
+                      "height": 1440,
+                      "duration": null
+                    },
+                    {
+                      "id": "europe-titanium-strength-alemanha-1-2",
+                      "name": "Prancha 02",
+                      "kind": "image",
+                      "src": "media/7-europe--titanium-strength--alemanha--1--2.webp",
+                      "poster": null,
+                      "hls": null,
+                      "width": 1080,
+                      "height": 1440,
+                      "duration": null
+                    },
+                    {
+                      "id": "europe-titanium-strength-alemanha-1-3",
+                      "name": "Prancha 03",
+                      "kind": "image",
+                      "src": "media/7-europe--titanium-strength--alemanha--1--3.webp",
+                      "poster": null,
+                      "hls": null,
+                      "width": 1080,
+                      "height": 1440,
+                      "duration": null
+                    },
+                    {
+                      "id": "europe-titanium-strength-alemanha-1-4",
+                      "name": "Prancha 04",
+                      "kind": "image",
+                      "src": "media/7-europe--titanium-strength--alemanha--1--4.webp",
+                      "poster": null,
+                      "hls": null,
+                      "width": 1080,
+                      "height": 1440,
+                      "duration": null
+                    },
+                    {
+                      "id": "europe-titanium-strength-alemanha-1-5",
+                      "name": "Prancha 05",
+                      "kind": "image",
+                      "src": "media/7-europe--titanium-strength--alemanha--1--5.webp",
+                      "poster": null,
+                      "hls": null,
+                      "width": 1080,
+                      "height": 1440,
+                      "duration": null
+                    }
+                  ]
+                },
+                {
+                  "name": "2",
+                  "slug": "2",
+                  "path": "7. Europe/Titanium Strength/Alemanha/2",
+                  "children": [],
+                  "media": [
+                    {
+                      "id": "europe-titanium-strength-alemanha-2-1",
+                      "name": "Prancha 01",
+                      "kind": "image",
+                      "src": "media/7-europe--titanium-strength--alemanha--2--1.webp",
+                      "poster": null,
+                      "hls": null,
+                      "width": 1440,
+                      "height": 1920,
+                      "duration": null
+                    },
+                    {
+                      "id": "europe-titanium-strength-alemanha-2-2",
+                      "name": "Prancha 02",
+                      "kind": "image",
+                      "src": "media/7-europe--titanium-strength--alemanha--2--2.webp",
+                      "poster": null,
+                      "hls": null,
+                      "width": 1440,
+                      "height": 1920,
+                      "duration": null
+                    },
+                    {
+                      "id": "europe-titanium-strength-alemanha-2-3",
+                      "name": "Prancha 03",
+                      "kind": "image",
+                      "src": "media/7-europe--titanium-strength--alemanha--2--3.webp",
+                      "poster": null,
+                      "hls": null,
+                      "width": 1440,
+                      "height": 1920,
+                      "duration": null
+                    },
+                    {
+                      "id": "europe-titanium-strength-alemanha-2-4",
+                      "name": "Prancha 04",
+                      "kind": "image",
+                      "src": "media/7-europe--titanium-strength--alemanha--2--4.webp",
+                      "poster": null,
+                      "hls": null,
+                      "width": 1440,
+                      "height": 1920,
+                      "duration": null
+                    }
+                  ]
+                }
+              ],
+              "media": []
+            },
+            {
+              "name": "Espanha",
+              "slug": "espanha",
+              "path": "7. Europe/Titanium Strength/Espanha",
+              "children": [],
+              "media": [
+                {
+                  "id": "europe-titanium-strength-espanha-aqn7174mjbndg7ug8u731bk-xx6mclc9h8byypluxa6x3zr67kpd3jmvvems7b3gyn2snhho-ixfgkvatqnsubvgo1pntvmfzp9rrlg",
+                  "name": "Titanium Strength — Espanha",
+                  "kind": "video",
+                  "src": "media/7-europe--titanium-strength--espanha--filme.mp4",
+                  "poster": "media/7-europe--titanium-strength--espanha--filme--poster.webp",
+                  "hls": null,
+                  "width": 720,
+                  "height": 1280,
+                  "duration": 39.807
+                }
+              ]
+            },
+            {
+              "name": "França",
+              "slug": "franca",
+              "path": "7. Europe/Titanium Strength/França",
+              "children": [],
+              "media": [
+                {
+                  "id": "europe-titanium-strength-franca-1",
+                  "name": "Prancha 01",
+                  "kind": "image",
+                  "src": "media/7-europe--titanium-strength--franca--1.webp",
+                  "poster": null,
+                  "hls": null,
+                  "width": 1080,
+                  "height": 1440,
+                  "duration": null
+                },
+                {
+                  "id": "europe-titanium-strength-franca-2",
+                  "name": "Prancha 02",
+                  "kind": "image",
+                  "src": "media/7-europe--titanium-strength--franca--2.webp",
+                  "poster": null,
+                  "hls": null,
+                  "width": 1080,
+                  "height": 1440,
+                  "duration": null
+                },
+                {
+                  "id": "europe-titanium-strength-franca-3",
+                  "name": "Prancha 03",
+                  "kind": "image",
+                  "src": "media/7-europe--titanium-strength--franca--3.webp",
+                  "poster": null,
+                  "hls": null,
+                  "width": 1080,
+                  "height": 1440,
+                  "duration": null
+                },
+                {
+                  "id": "europe-titanium-strength-franca-4",
+                  "name": "Prancha 04",
+                  "kind": "image",
+                  "src": "media/7-europe--titanium-strength--franca--4.webp",
+                  "poster": null,
+                  "hls": null,
+                  "width": 1080,
+                  "height": 1440,
+                  "duration": null
+                }
+              ]
+            }
+          ],
+          "media": []
+        }
+      ],
+      "media": []
+    }
+  ]
+}

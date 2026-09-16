@@ -1,0 +1,11 @@
+{
+  "name": "arthur-burigo-portfolio",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Portfólio criativo de Arthur Búrigo, pronto para GitHub Pages.",
+  "scripts": {
+    "preview": "node scripts/serve.mjs",
+    "verify": "node scripts/verify-site.mjs"
+  }
+}
