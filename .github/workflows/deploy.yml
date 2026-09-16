@@ -1,0 +1,46 @@
+name: Publicar portfolio no GitHub Pages
+
+on:
+  push:
+    branches: [main]
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+concurrency:
+  group: github-pages
+  cancel-in-progress: false
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - name: Obter arquivos
+        uses: actions/checkout@v6
+
+      - name: Conferir arquivos do portfolio
+        run: node tools/validate.cjs
+
+      - name: Configurar Pages
+        uses: actions/configure-pages@v5
+
+      - name: Preparar site
+        run: |
+          mkdir -p _site
+          cp index.html style.css app.js data.json .nojekyll _site/
+          cp -R fonts media vendor _site/
+
+      - name: Enviar site
+        uses: actions/upload-pages-artifact@v4
+        with:
+          path: _site
+
+      - name: Publicar
+        id: deployment
+        uses: actions/deploy-pages@v4
