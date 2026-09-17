@@ -34,7 +34,7 @@ body.vibecode-theme{--accent:#b8ff3d;--ink:#aaf543;--dark:#020b04;--paper:#03070
 .highlights-hero p{max-width:680px;margin:27px 0 0;font-size:15px;line-height:1.75}
 .highlights-total{display:flex;flex-direction:column;align-items:flex-end;padding-left:24px;border-left:1px solid var(--ink);font-family:Pixel,monospace;font-size:52px;line-height:.8;color:var(--accent)}
 .highlights-total span{margin-top:13px;font-family:Mono,monospace;font-size:10px;line-height:1;letter-spacing:.12em;color:var(--ink)}
-.highlights-grid{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:clamp(25px,3vw,38px);padding-top:clamp(38px,5vw,66px)}
+.highlights-grid{display:grid;grid-template-columns:1fr;gap:clamp(25px,3vw,38px);padding-top:clamp(38px,5vw,66px)}
 .highlight-card{display:grid;grid-template-columns:minmax(0,44%) minmax(0,56%);min-height:270px;overflow:hidden;background:var(--paper);border:2px solid var(--ink);box-shadow:6px 6px 0 var(--ink);color:var(--ink);text-decoration:none;transition:transform .2s ease,box-shadow .2s ease}
 .highlight-card:hover,.highlight-card:focus-visible{transform:translate(-3px,-3px);box-shadow:9px 9px 0 var(--accent);outline:0}
 .highlight-visual{position:relative;min-width:0;overflow:hidden;border-right:2px solid var(--ink);background:var(--soft)}

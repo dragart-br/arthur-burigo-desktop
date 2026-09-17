@@ -1,6 +1,6 @@
 # Arthur Búrigo — Portfólio
 
-Pacote estático pronto para publicação no GitHub Pages.
+Pacote estático atualizado e pronto para publicação no GitHub Pages.
 
 ## Como atualizar o repositório
 
@@ -20,5 +20,5 @@ Depois da publicação, o endereço será:
 
 - Não remova o arquivo `.nojekyll`.
 - Preserve as pastas `media` e `vendor`.
-- O pacote inclui as galerias, vídeos, animações, a experiência VibeCode e a aba Destaques.
+- O pacote inclui as galerias, vídeos, animações, a experiência VibeCode e a aba Destaques com quatro fileiras no desktop.
 - O GitHub Pages pode levar alguns minutos para atualizar após o commit.
