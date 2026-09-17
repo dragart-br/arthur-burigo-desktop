@@ -20,6 +20,43 @@
       ]
     },
     {
+      "name": "Destaques",
+      "slug": "destaques",
+      "path": "Destaques",
+      "children": [],
+      "media": [],
+      "highlights": [
+        {
+          "name": "Dezembeer",
+          "description": "Desenvolvimento de key visual e posts para divulgação em redes sociais.",
+          "target": "aaa-jesse-owens/dezembeer",
+          "image": "media/2-aaa-jesse-owens--dezembeer--kv-novembeer.webp",
+          "label": "Direção de arte"
+        },
+        {
+          "name": "Dia C",
+          "description": "Edição de vídeo, motion design e utilização de IAs generativas.",
+          "target": "aaa-jesse-owens/dia-c",
+          "image": "media/2-aaa-jesse-owens--dia-c--after-movie-v1-2--poster.webp",
+          "label": "Audiovisual"
+        },
+        {
+          "name": "VibeCode",
+          "description": "Programação com IA e desenvolvimento de experiências online.",
+          "target": "vibecode",
+          "image": null,
+          "label": "Experiência digital"
+        },
+        {
+          "name": "NAAPI",
+          "description": "Desenvolvimento de ativações, aplicações em mockup, cartazes e key visual.",
+          "target": "naapi",
+          "image": "media/4-naapi--kv.webp",
+          "label": "Design e ativação"
+        }
+      ]
+    },
+    {
       "name": "AAA Jesse Owens",
       "slug": "aaa-jesse-owens",
       "path": "2. AAA Jesse Owens",
